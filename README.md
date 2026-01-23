@@ -17,7 +17,7 @@ Test Framework: TestNG
 
 Design Pattern: Page Object Model (POM)
 
-Build Tool: Maven (if applicable)
+Build Tool: Maven 
 
 Browser: Google Chrome
 
@@ -93,7 +93,7 @@ Run tests:
 
 Right-click on test class → Run as TestNG Test
 
-Or run using testng.xml (if added)
+Or run using testng.xml
 
 📸 Screenshots
 
@@ -116,8 +116,8 @@ CI/CD integration (GitHub Actions / Jenkins)
 ------------------------
 
 Girish Kumar
-QA Automation Tester (Fresher)
-Learning Selenium, TestNG, and modern testing practices step by step.
+QA Automation Tester
+
 
 🙌 Acknowledgements
 ------------------------
