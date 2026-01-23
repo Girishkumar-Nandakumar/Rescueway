@@ -1,4 +1,4 @@
-*🧪 RescueWay Automation Testing Project
+🧪 RescueWay Automation Testing Project
 ----------------------------------------------
 
 This repository contains an automation testing framework built using Selenium WebDriver, Java, TestNG, and Page Object Model (POM) to test the RescueWay web application.
@@ -6,7 +6,7 @@ This repository contains an automation testing framework built using Selenium We
 The project focuses on functional UI testing, clean code structure, and industry best practices suitable for a QA fresher learning real-world automation.
 
 
-*🔧 Tech Stack
+🔧 Tech Stack
 ----------------
 
 Programming Language: Java
@@ -52,7 +52,9 @@ Contains page-level locators and actions (POM concept).
 Tests
 Contains TestNG test cases that validate application behavior using page methods.
 
+
 ✅ Features Covered
+------------------------
 
 Home page navigation validation
 
@@ -68,7 +70,9 @@ URL and behavior-based assertions
 
 Screenshot utility for important actions
 
+
 🧠 Framework Highlights
+------------------------
 
 ✔ Page Object Model for maintainability
 
@@ -82,7 +86,9 @@ Screenshot utility for important actions
 
 ✔ Clean and readable test code
 
+
 ▶️ How to Run the Tests
+------------------------
 
 Clone the repository:
 
@@ -110,6 +116,7 @@ Or run using testng.xml (if added)
 Screenshots are captured automatically and saved in the screenshots/ folder for important test flows like form submission.
 
 🚀 Future Enhancements
+------------------------
 
 Login & Dashboard automation
 
@@ -122,18 +129,21 @@ Extent Reports integration
 CI/CD integration (GitHub Actions / Jenkins)
 
 👤 Author
+------------------------
 
 Girish Kumar
 QA Automation Tester (Fresher)
 Learning Selenium, TestNG, and modern testing practices step by step.
 
 🙌 Acknowledgements
+------------------------
 
 Selenium Documentation
 
 TestNG Documentation
 
 Open-source QA community
+------------------------
 
 ⭐ If you like this project
 
