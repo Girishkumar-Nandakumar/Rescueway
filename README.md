@@ -1,10 +1,13 @@
-🧪 RescueWay Automation Testing Project
+*🧪 RescueWay Automation Testing Project
+----------------------------------------------
 
 This repository contains an automation testing framework built using Selenium WebDriver, Java, TestNG, and Page Object Model (POM) to test the RescueWay web application.
 
 The project focuses on functional UI testing, clean code structure, and industry best practices suitable for a QA fresher learning real-world automation.
 
-🔧 Tech Stack
+
+*🔧 Tech Stack
+----------------
 
 Programming Language: Java
 
@@ -20,7 +23,9 @@ Browser: Google Chrome
 
 IDE: Eclipse / IntelliJ
 
-📁 Project Structure
+
+*📁 Project Structure
+------------------------
 src/test/java
 │
 ├── base
@@ -34,7 +39,9 @@ src/test/java
 └── tests
     └── NavigationTests.java
 
-📌 Explanation
+
+*📌 Explanation
+------------------
 
 BaseClass
 Handles WebDriver setup, browser configuration, and teardown.
