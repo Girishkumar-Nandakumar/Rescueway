@@ -76,7 +76,7 @@ Screenshot utility for important actions
 
 Clone the repository:
 
-git clone https://github.com/your-username/rescueway-automation.git
+git clone https://github.com/Girishkumar-Nandakumar/Rescueway.git
 
 
 Open the project in Eclipse / IntelliJ
