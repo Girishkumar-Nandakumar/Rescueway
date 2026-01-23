@@ -24,25 +24,6 @@ Browser: Google Chrome
 IDE: Eclipse / IntelliJ
 
 
-
-📁 Project Structure
-------------------------
-
-src/test/java
-│
-├── base
-│   └── BaseClass.java
-│
-├── pages
-│   ├── HomePage.java
-│   ├── ContactPage.java
-│   ├── SignupPage.java
-│
-└── tests
-    └── NavigationTests.java
-
-
-
 📌 Explanation
 ------------------
 
