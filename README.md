@@ -24,8 +24,10 @@ Browser: Google Chrome
 IDE: Eclipse / IntelliJ
 
 
-*📁 Project Structure
+
+📁 Project Structure
 ------------------------
+
 src/test/java
 │
 ├── base
@@ -40,7 +42,8 @@ src/test/java
     └── NavigationTests.java
 
 
-*📌 Explanation
+
+📌 Explanation
 ------------------
 
 BaseClass
