@@ -71,6 +71,7 @@ Screenshot utility for important actions
 ✔ Clean and readable test code
 
 
+
 ▶️ How to Run the Tests
 ------------------------
 
@@ -99,6 +100,7 @@ Or run using testng.xml
 
 Screenshots are captured automatically and saved in the screenshots/ folder for important test flows like form submission.
 
+
 🚀 Future Enhancements
 ------------------------
 
@@ -111,6 +113,7 @@ TestNG DataProvider for data-driven testing
 Extent Reports integration
 
 CI/CD integration (GitHub Actions / Jenkins)
+
 
 👤 Author
 ------------------------
