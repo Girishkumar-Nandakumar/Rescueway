@@ -1,1 +1,15 @@
 /target/
+# Eclipse / IDE files
+.settings/
+.classpath
+.project
+
+# Build output
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
