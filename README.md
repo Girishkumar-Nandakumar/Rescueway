@@ -11,7 +11,7 @@ The project focuses on functional UI testing, clean code structure, and industry
 
 Programming Language: Java
 
-Automation Tool: Selenium WebDriver
+Automation Tool: Selenium WebDriver, Playwright
 
 Test Framework: TestNG
 
